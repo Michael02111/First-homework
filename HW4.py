@@ -482,6 +482,7 @@ def main():
     print("Задание №4: ", school)
 
     ##############################################
+    print ('Преобразование типов')
     global string, second_string, new_list, city, country, list_4, list_of_numbers, a, b
     print("Задание №1: ",  transformation_into_array(string, second_string))
     print("Задание №2: ",  print_text(new_list, city, country))
